@@ -64,6 +64,10 @@
     display: none;
 }
 
+.app__navbar-smallscreen .toggle_open {
+    cursor: pointer;
+}
+
 .app__navbar-smallscreen_overlay {
     position: fixed;
     top: 0;
