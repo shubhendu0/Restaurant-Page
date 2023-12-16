@@ -1,4 +1,4 @@
-Click on this link to visit website => [https://fashion-store-mml3.onrender.com/](https://restaurant-sg39.onrender.com)
+Click on this link to visit website => https://restaurant-sg39.onrender.com
 
 # Restaurant Page
 
